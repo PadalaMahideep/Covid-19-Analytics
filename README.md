@@ -29,6 +29,22 @@ Remember to follow the IBM Cognos documentation and user guides for detailed ins
 
 # Screen Shots
 
-![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/d98ce255-69c9-4f8e-b680-ebefeefc26c3)      ![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/3f1b1148-35aa-49df-b455-ee8f546c7f81)
+==> Map Chat
+
+Details :
+* Over all values of State/UnionTerritory, the sum of Confirmed is nearly 111 thousand.
+* Confirmed ranges from 0, when State/UnionTerritory is Nagaland#, to over 22 thousand, when State/UnionTerritory is Maharashtra.
+
+![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/d98ce255-69c9-4f8e-b680-ebefeefc26c3)    
+
+==> Bubble chat
+
+Details: 
+* The overall number of results for Deaths is over a thousand.
+* Over all values of State/UnionTerritory, the average of Confirmed is 108.
+* The average values of Confirmed range from 0, occurring when State/UnionTerritory is Nagaland#, to 566.5, when State/UnionTerritory is Maharashtra.
+* Kerala is the most frequently occurring category of State/UnionTerritory with a count of 78 items with Confirmed values (7.6 % of the total).
+  
+![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/3f1b1148-35aa-49df-b455-ee8f546c7f81)
                          
 
