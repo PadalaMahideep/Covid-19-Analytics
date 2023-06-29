@@ -29,7 +29,7 @@ Remember to follow the IBM Cognos documentation and user guides for detailed ins
 
 # Screen Shots
 
-==> Map Chat
+==> Map Chat (Covid -19 India Statistics)
 
 Details :
 * Over all values of State/UnionTerritory, the sum of Confirmed is nearly 111 thousand.
@@ -46,5 +46,12 @@ Details:
 * Kerala is the most frequently occurring category of State/UnionTerritory with a count of 78 items with Confirmed values (7.6 % of the total).
   
 ![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/3f1b1148-35aa-49df-b455-ee8f546c7f81)
-                         
 
+==> Pie Chat  (Percentage of Confirmed cases of Top 10 Affected States)
+
+Details: 
+* The total number of results for percentage Calculation, across all State/UnionTerritory, is 10.
+
+![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/862aef56-e3a3-49a2-9405-b8bf4f637a24)
+
+                         
