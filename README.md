@@ -1,7 +1,7 @@
 # Covid-19-Analytics
 Covid-19 Analytics DashBoard Using IBM  Cognos
 
-# To create a COVID-19 analytics dashboard using IBM Cognos with the given dataset attributes, you can follow these steps:
+# To create a COVID-19 analytics dashboard using IBM Cognos , you can follow these steps:
 
 1. Import the Dataset: Import the dataset containing the COVID-19 data into IBM Cognos. Ensure that the dataset is properly formatted and organized.
 
