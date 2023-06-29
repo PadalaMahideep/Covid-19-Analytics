@@ -54,4 +54,11 @@ Details:
 
 ![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/862aef56-e3a3-49a2-9405-b8bf4f637a24)
 
-                         
+==> Bar Graph 
+* The total number of results for Confirmed, across all State/UnionTerritory, is 430.
+* The largest value of Confirmed is nearly three thousand, occurring when State/UnionTerritory is Maharashtra.
+* Kerala is the most frequently occurring category of State/UnionTerritory with a count of 78 items with Confirmed values (18.1 % of the total).
+  
+![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/0e1d4a68-e62e-4131-b41f-c2a44f5bb873)
+
+                     
