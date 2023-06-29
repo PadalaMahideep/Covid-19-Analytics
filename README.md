@@ -40,10 +40,10 @@ Details :
 ==> Bubble chat
 
 Details: 
-* The overall number of results for Deaths is over a thousand.
-* Over all values of State/UnionTerritory, the average of Confirmed is 108.
-* The average values of Confirmed range from 0, occurring when State/UnionTerritory is Nagaland#, to 566.5, when State/UnionTerritory is Maharashtra.
-* Kerala is the most frequently occurring category of State/UnionTerritory with a count of 78 items with Confirmed values (7.6 % of the total).
+*   The overall number of results for Deaths is over a thousand.
+*   Over all values of State/UnionTerritory, the average of Confirmed is 108.
+*   The average values of Confirmed range from 0, occurring when State/UnionTerritory is Nagaland#, to 566.5, when State/UnionTerritory is Maharashtra.
+*    Kerala is the most frequently occurring category of State/UnionTerritory with a count of 78 items with Confirmed values (7.6 % of the total).
   
 ![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/3f1b1148-35aa-49df-b455-ee8f546c7f81)
 
@@ -54,11 +54,54 @@ Details:
 
 ![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/862aef56-e3a3-49a2-9405-b8bf4f637a24)
 
-==> Bar Graph 
+==> Bar Graph (Top 10 State Wise No Of Confirmed Case)
 * The total number of results for Confirmed, across all State/UnionTerritory, is 430.
 * The largest value of Confirmed is nearly three thousand, occurring when State/UnionTerritory is Maharashtra.
 * Kerala is the most frequently occurring category of State/UnionTerritory with a count of 78 items with Confirmed values (18.1 % of the total).
   
 ![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/0e1d4a68-e62e-4131-b41f-c2a44f5bb873)
 
-                     
+==> Bar chat (Statistics Of Chosen States)
+
+Details:
+
+*    The total number of results for Confirmed, across all State/UnionTerritory, is 82.
+*    Over all values of State/UnionTerritory, the average of Confirmed is 221.7.
+*    The total number of results for Cured, across all State/UnionTerritory, is 82.
+*    Over all values of State/UnionTerritory, the average of Cured is 6.537.
+*    The total number of results for Deaths, across all State/UnionTerritory, is 82.
+*    Over all values of State/UnionTerritory, the average of Deaths is 3.793.
+*    Cured ranges from 115, when State/UnionTerritory is Andhra Pradesh, to 421, when State/UnionTerritory is Delhi.
+*    Deaths ranges from 75, when State/UnionTerritory is Andhra Pradesh, to 236, when State/UnionTerritory is Delhi.
+*    Confirmed ranges from over five thousand, when State/UnionTerritory is Andhra Pradesh, to over thirteen thousand, when State/UnionTerritory is Delhi.
+*    Delhi is the most frequently occurring category of State/UnionTerritory with a count of 46 items with Confirmed values (56.1 % of the total).
+*    Delhi is the most frequently occurring category of State/UnionTerritory with a count of 46 items with Cured values (56.1 % of the total).
+*    Delhi is the most frequently occurring category of State/UnionTerritory with a count of 46 items with Deaths values (56.1 % of the total).
+
+![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/aba92700-0018-4350-ab05-b70ac6a3fa4b)
+
+Line Chat ()
+
+Details :
+*   The total number of results for Deaths, across all dates, is 498.
+*   Over all dates, the average of Deaths is 0.4056.
+*   The total number of results for Confirmed, across all dates, is 498.
+*   Over all dates, the average of Confirmed is 19.45.
+*   The  total number of results for Cured, across all dates, is 498.
+*   Over all dates, the average of Cured is 1.622.
+*   Cured ranges from 0, when Date is 2020- 03-01, to 124, when Date is 2020-03-31.
+*   Confirmed ranges from 3, when Date is 2020-03-01, to almost 1500, when Date is 2020-03-31.
+*   Deaths ranges from 0, when Date is 2020- 03-01, to 35, when Date is 2020-03-31.
+﻿*   Cured is unusually high when Date is 2020- 03-31, 2020-03-30, 2020-03-29 and 2020-03-28.
+*   Cured has a moderate upward trend.2020-03-31 (5.6 %), 2020-03-30 (5.6%), 2020-03-29 (5.4%), 2020-03-26 (5.4%), and 2020-03-28 (5.4 %) are the most       
+     frequently  occurring categories of Date with a combined count of 137 items with Deaths values (27.5 % of the total).
+*   2020-03-31 (5.6 %), 2020-03-30 (5.6%), 2020-03-29 (5.4%), 2020-03-26 (5.4%), and 2020-03-28 (5.4 %) are the most frequently occurring categories of Date    
+    with a combined count of 137 items with Confirmed values (27.5 % of the total).
+*   2020-03-31 (5.6 %), 2020-03-30 (5.6 %), 2020-03-29 (5.4 %), 2020-03-26 (5.4%), and 2020-03-28 (5.4 %) are the most frequently occurring categories of Date 
+    with a combined count of 137 items with Cured values (27.5 % of the total).
+
+![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/6ebb4796-2ce7-4c0f-a05a-a7f14f31c59a)
+
+Forecasting line grap wrt above graph:
+
+![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/2ccc0883-66c4-4b0c-a071-2661caa3eac1)
