@@ -26,3 +26,9 @@ Covid-19 Analytics DashBoard Using IBM  Cognos
 8. Test and Publish: Test the dashboard thoroughly to ensure that the data and visualizations are accurate. Once satisfied, publish the dashboard to make it accessible to users.
 
 Remember to follow the IBM Cognos documentation and user guides for detailed instructions on creating and customizing dashboards using IBM Cognos.
+
+# Screen Shots
+
+![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/d98ce255-69c9-4f8e-b680-ebefeefc26c3)      ![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/3f1b1148-35aa-49df-b455-ee8f546c7f81)
+                         
+
