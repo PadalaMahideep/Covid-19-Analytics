@@ -102,6 +102,6 @@ Details :
 
 ![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/6ebb4796-2ce7-4c0f-a05a-a7f14f31c59a)
 
-Forecasting line grap wrt above graph:
+Forecasting line graph wrt above graph:
 
 ![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/2ccc0883-66c4-4b0c-a071-2661caa3eac1)
