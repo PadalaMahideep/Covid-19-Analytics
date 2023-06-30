@@ -29,7 +29,7 @@ Remember to follow the IBM Cognos documentation and user guides for detailed ins
 
 # Screen Shots
 
-==> Map Chat (Covid -19 India Statistics)
+==> Map Chart (Covid -19 India Statistics)
 
 Details :
 * Over all values of State/UnionTerritory, the sum of Confirmed is nearly 111 thousand.
@@ -37,7 +37,7 @@ Details :
 
 ![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/d98ce255-69c9-4f8e-b680-ebefeefc26c3)    
 
-==> Bubble chat
+==> Bubble chart
 
 Details: 
 *   The overall number of results for Deaths is over a thousand.
@@ -47,7 +47,7 @@ Details:
   
 ![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/3f1b1148-35aa-49df-b455-ee8f546c7f81)
 
-==> Pie Chat  (Percentage of Confirmed cases of Top 10 Affected States)
+==> Pie Chart  (Percentage of Confirmed cases of Top 10 Affected States)
 
 Details: 
 * The total number of results for percentage Calculation, across all State/UnionTerritory, is 10.
@@ -61,7 +61,7 @@ Details:
   
 ![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/0e1d4a68-e62e-4131-b41f-c2a44f5bb873)
 
-==> Bar chat (Statistics Of Chosen States)
+==> Bar chart (Statistics Of Chosen States)
 
 Details:
 
@@ -80,7 +80,7 @@ Details:
 
 ![image](https://github.com/PadalaMahideep/Covid-19-Analytics/assets/114172544/aba92700-0018-4350-ab05-b70ac6a3fa4b)
 
-Line Chat ()
+Line Chart ()
 
 Details :
 *   The total number of results for Deaths, across all dates, is 498.
